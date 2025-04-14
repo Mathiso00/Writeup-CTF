@@ -13,6 +13,7 @@
 
 ### 2025
 
+- <img src="assets/logo_midnight-flag.svg" width="30"> &nbsp; <span style="font-size: 1.4em">[Midnight CTF](2025/Midnight-CTF/README.md)</span>
 - <img src="assets/HackTheBoxCTF.svg" width="30"> &nbsp; <span style="font-size: 1.4em">[Cyber Apocalypse CTF](2025/Cyber-Apocalypse-CTF/)</span>
 - <img src="assets/PwnMECTF.webp" width="30"> &nbsp; <span style="font-size: 1.4em">[PwnMECTF](2025/PwnMeCTF/)</span>
 - <img src="assets/PearlCTF.webp" width="30"> &nbsp; <span style="font-size: 1.4em">[PearlCTF](2025/PearlCTF/)</span>
@@ -22,9 +23,9 @@
 ### 2024
 
 - <img src="assets/EC2.png" width="30"> &nbsp; <span style="font-size: 1.4em">[European Cyber Cup](2024/European-Cyber-Cup/)</span>
-- <img src="assets/PlaidCTF.webp" width="30"> &nbsp; <span style="font-size: 1.4em">[PlaidCTF](2024/PlaidCTF/)</span>
 - <img src="assets/SpookyCTF.webp" width="30"> &nbsp; <span style="font-size: 1.4em">[SpookyCTF](2024/SpookyCTF/)</span>
-
+- <img src="assets/404CTF.webp" width="30"> &nbsp; <span style="font-size: 1.4em">[404CTF](2024/404CTF/)</span>
+- <img src="assets/PlaidCTF.webp" width="30"> &nbsp; <span style="font-size: 1.4em">[PlaidCTF](2024/PlaidCTF/)</span>
 ### 2023
 
 - <img src="assets/PatriotCTF.webp" width="30"> &nbsp; <span style="font-size: 1.4em">[PatriotCTF](2023/PatriotCTF/)</span>
@@ -38,7 +39,18 @@
 - <img src="assets/TyphoonconCTF.webp" width="30"> &nbsp; <span style="font-size: 1.4em">[Typhooncon CTF](2023/Typhooncon-CTF/)</span>
 - <img src="assets/n00bzctf.webp" width="30"> &nbsp; <span style="font-size: 1.4em">[n00bzCTF 2023](2023/n00bzCTF-2023/)</span>
 - <img src="assets/US_Cyber_Open_CTF.webp" width="30"> &nbsp; <span style="font-size: 1.4em">[Season III: US Cyber Open CTF](2023/US-Cyber-Open-CTF/)</span>
+- <img src="assets/404CTF.webp" width="30"> &nbsp; <span style="font-size: 1.4em">[404CTF](2023/404CTF/)</span>
 
+## Retired Write-ups
+
+### HackTheBox Machines
+
+- <img src="assets/HackTheBoxCTF.svg" width="30"> &nbsp; <span style="font-size: 1.4em">[Machine Name](retired/htb/machine-name/)</span>
+- <img src="assets/HackTheBoxCTF.svg" width="30"> &nbsp; <span style="font-size: 1.4em">[Machine Name](retired/htb/machine-name/)</span>
+
+### HackTheBox Challenges
+
+- <img src="assets/HackTheBoxCTF.svg" width="30"> &nbsp; <span style="font-size: 1.4em">[Challenge Name](retired/htb/challenge-name/)</span>
 
 ## 📫 Contact
 
