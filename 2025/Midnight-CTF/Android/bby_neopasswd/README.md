@@ -59,9 +59,3 @@ MCTF{1t5_SuP3r_3asy_t0_F1nd_S3cret5}
 ```
 
 ---
-
-## Lessons Learned
-
-- **JADX** is a powerful tool for decompiling Android APKs.
-- XOR encryption is simple to reverse when the key is known or can be deduced.
-- Understanding Java code and translating it into Python can help automate decryption tasks.
