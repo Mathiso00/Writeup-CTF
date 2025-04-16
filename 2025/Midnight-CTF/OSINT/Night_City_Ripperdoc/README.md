@@ -12,15 +12,15 @@ My ripperdoc is less than a kilometer from my position.
 Meet me at the nearest bar!
 ```
 
-### Image:
+### Image `Reward.png`:
 
-![Reward Image](Reward.png)
+![Reward.png](Reward.png)
 
-## Solve
+# Solve
 
 Using this website: [https://maps.piggyback.com/cyberpunk-2077/maps/night-city](https://maps.piggyback.com/cyberpunk-2077/maps/night-city), we can recognize the location of `Reward.png`:
 
-![Location Capture](capture.png)
+![Location capture](capture.png)
 
 - **Ripperdoc Name**: `Cassius Ryder`
 - **Bar Name**: `Totentanz`

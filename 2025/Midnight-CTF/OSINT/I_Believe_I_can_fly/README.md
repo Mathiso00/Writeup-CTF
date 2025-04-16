@@ -15,7 +15,7 @@
 
 ![Springboard Image](I_believe_i_can_fly.png)
 
-## Solve
+# Solve
 
 Using Google Lens, we can find the location of the springboard: "Lans-en-Vercors."
 
