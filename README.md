@@ -13,6 +13,7 @@
 
 ### 2025
 
+- <img src="assets/wocshack_logo.png" width="30"> &nbsp; <span style="font-size: 1.4em">[WOCSHACK CTF](2025/WOCSHACK-CTF/)</span>
 - <img src="assets/logo_midnight-flag.svg" width="30"> &nbsp; <span style="font-size: 1.4em">[Midnight CTF](2025/Midnight-CTF/README.md)</span>
 - <img src="assets/HackTheBoxCTF.svg" width="30"> &nbsp; <span style="font-size: 1.4em">[Cyber Apocalypse CTF](2025/Cyber-Apocalypse-CTF/)</span>
 - <img src="assets/PwnMECTF.webp" width="30"> &nbsp; <span style="font-size: 1.4em">[PwnMECTF](2025/PwnMeCTF/)</span>
